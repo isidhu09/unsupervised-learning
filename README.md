@@ -18,4 +18,4 @@ Used provided data to create an unsupervised machine learning model to locate cl
 * Previously provided file, which is saved in the Resources folder in the repo: "myopia.csv"
 
 ## Notes
-* Brief notes and recommendations included in notebook
+* Brief notes and recommendations included in jupyter notebook
